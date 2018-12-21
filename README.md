@@ -1,2 +1,2 @@
-# Machine-Learnign
+# Machine-Learning
 machine learning tests
